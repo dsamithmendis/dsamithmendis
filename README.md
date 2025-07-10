@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD7i8Bv9y5VURzK/giphy.gif" width="150" alt="Talking robot animation" />
+  <img src="https://i.imgur.com/9hWQF7B.gif" width="150" alt="Pixel style talking robot animation" />
 </p>
 
 <h1 align="center">Hey there, I'm <span style="color:#4CAF50;">Samith Mendis</span>! 🤖</h1>
