@@ -20,85 +20,63 @@
 
 ## 🧠 About Me
 
-Hey there! I'm **Samith Mendis**, a curious and driven **Computer Engineering student** with a strong foundation in **hardware, networks, and firmware** — but now fully immersed in the **world of software**. I love solving real-world problems with code and designing responsive, scalable web applications.
-
-- 🔭 Currently focused on **Full Stack Development**
-- 🌐 Backend & REST API enthusiast
-- 🎨 Clean UI with **HTML/CSS/Tailwind**
-- ☁️ Learning cloud & deployment (Docker, Netlify)
+Hi! I'm **Samith Mendis**, a passionate Computer Engineering student who shifted focus from hardware to **software engineering**. I'm enthusiastic about full-stack development and real-world problem solving through clean code and modern tech stacks.
 
 ---
 
-## 🛠️ Tech Toolbox
+## ⚒️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,tailwind,js,github,git,figma" />
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,tailwind,js,ts,git,github,figma" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Projects
 
-### 🎯 [Personal Portfolio](https://github.com/dsamithmendis/www.dsamithmendis.com)
-> _Flask + Tailwind CSS + SMTP_
-- Fully responsive multi-section portfolio site
-- Backend & frontend architecture separation
-- `.env` config & email form integration using SMTP
+- 🔹 [**Personal Portfolio**](https://github.com/dsamithmendis/www.dsamithmendis.com)  
+  *Flask + Tailwind + SMTP Contact Form*
 
----
+- 🔹 [**TechnoHacks Internship**](https://github.com/dsamithmendis?tab=repositories&q=TechnoHacks)  
+  *Frontend practice using HTML/CSS*
 
-### 💼 [Intern Projects – TechnoHacks](https://github.com/dsamithmendis?tab=repositories&q=TechnoHacks)
-> _HTML · CSS · Form Design_  
-Completed tasks during internship at TechnoHacks showcasing frontend layouting and form interactivity.
+- 🔹 [**CodeAlpha Projects**](https://github.com/dsamithmendis?tab=repositories&q=CodeAlpha)  
+  *Voice Assistant · Fibonacci Generator (Python)*
 
 ---
 
-### 🤖 [CodeAlpha Python Projects](https://github.com/dsamithmendis?tab=repositories&q=CodeAlpha)
-> _Python · CLI Tools · Automation_
-- 🗣️ **Voice Assistant** with speech recognition
-- 🔁 **Fibonacci Generator** with user-friendly CLI
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Live)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsamithmendis&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dsamithmendis&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsamithmendis&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dsamithmendis&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsamithmendis&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
-## 🧭 Roadmap
-
-- ✅ Build portfolio site with Flask
-- ✅ Contribute to open-source repositories
-- 🔜 Learn React & Next.js
-- 🔜 Develop REST APIs with auth
-- 🔜 Deploy Dockerized apps
-
----
-
-## 🧩 Let's Connect!
+## 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://linkedin.com/in/dsamithmendis">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/dsamithmendis">
-    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge" />
-  </a>
-  <a href="mailto:samithmendis.01@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=dsamithmendis&theme=radical&hide_border=false" />
 </p>
 
 ---
 
+## 🌍 GitHub Contribution Calendar
+
 <p align="center">
-  🧠 <i>“The best way to predict the future is to invent it.”</i> – Alan Kay
+  <img src="https://ghchart.rshah.org/31c48f/dsamithmendis" alt="GitHub chart" />
+</p>
+
+---
+
+## 🧠 Coding Activity (WakaTime)
+
+> _Requires WakaTime setup_
+
+If enabled, you can add WakaTime stats using this code block in your README:
+
+```markdown
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=radical" />
 </p>
