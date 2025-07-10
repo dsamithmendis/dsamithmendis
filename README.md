@@ -84,9 +84,37 @@
 
 ## 🧠 Coding Activity (WakaTime)
 
-> To display your WakaTime stats, create an account at [WakaTime](https://wakatime.com) and add this snippet below replacing your username:
-
-```markdown
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dsamithmendis&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- Master **React & Next.js** for frontend development  
+- Build robust and secure **REST APIs** with Node.js  
+- Learn containerization and deployment with **Docker** and **CI/CD pipelines**  
+- Contribute regularly to open-source projects  
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/dsamithmendis" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+  <a href="https://github.com/dsamithmendis" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" height="30" />
+  </a>
+  <a href="mailto:samithmendis.01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a>
+</p>
+
+---
+
+<p align="center" style="font-style: italic;">
+  “<strong>Code. Break. Build. Learn. Repeat.</strong>” 💡
 </p>
