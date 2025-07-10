@@ -1,6 +1,6 @@
 ## 📊 Coding Activity Overview
 
-A snapshot of my development journey across GitHub and WakaTime, showing my contributions, language usage, and time spent coding.
+A snapshot of my development journey — from daily commits to weekly coding time, across GitHub and WakaTime.
 
 <p align="center">
   <img
@@ -14,7 +14,7 @@ A snapshot of my development journey across GitHub and WakaTime, showing my cont
     alt="GitHub Activity Graph"
   />
   <img
-    src="https://wakatime.com/share/@dsamithmendis/1d2e3f4g-5678-9abc-def0-123456789abc.svg"
+    src="https://wakatime.com/share/@dsamithmendis/438c2ac5-4d16-471d-b7c0-dcc02483e907.svg"
     width="30%"
     alt="WakaTime Stats"
   />
