@@ -1,7 +1,7 @@
-## 📊 GitHub Stats & Activity Overview
+## 📊 GitHub Overview
 
-Here’s a snapshot of my GitHub contributions, language usage, and coding activity over time.  
-Stay consistent, keep learning, and build great things!
+Here’s a quick look at my coding activity and language usage on GitHub.  
+These charts highlight my contributions, top languages, and overall development trends.
 
 <p align="center">
   <img
