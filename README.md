@@ -2,11 +2,11 @@
   <img src="https://i.imgur.com/9hWQF7B.gif" width="150" alt="Pixel style talking robot animation" />
 </p>
 
-<h1 align="center">Hey there, I'm <span style="color:#4CAF50;">Samith Mendis</span>! 🤖</h1>
+<h1 align="center">Hi, I'm <span style="color:#4CAF50;">Samith Mendis</span> 🤖</h1>
 
 <p align="center">
-  <i>Computer Engineering Student turned Software Developer</i><br/>
-  Passionate about building clean, scalable, and beautiful applications 🚀
+  <em>Computer Engineer turned passionate Software Developer</em><br/>
+  Crafting clean, scalable, and elegant solutions 🚀
 </p>
 
 ---
@@ -29,12 +29,12 @@
 
 ## 👨‍💻 About Me
 
-> “I’m a lifelong learner and coder with a foundation in hardware, firmware, and networks, now crafting my journey through software engineering.”
+> Passionate about building software that makes a difference. I transitioned from hardware fundamentals to full-stack software engineering, loving every step of the journey!
 
-- 🔭 Currently exploring **React.js**, **Node.js**, and **TypeScript**  
-- 🌱 Improving skills in **backend API design** and **cloud deployment**  
-- 💬 Always open to collaboration and mentorship  
-- 📫 Reach me via LinkedIn or email anytime!
+- 🔭 Currently deep-diving into **React**, **Node.js**, and **TypeScript**  
+- 🌱 Learning advanced backend architecture & cloud technologies  
+- 💬 Open to collaboration, mentorship & tech talks  
+- 📫 Reach out via LinkedIn or Email anytime!
 
 ---
 
@@ -46,13 +46,13 @@
 
 ---
 
-## 🚀 Projects Spotlight
+## 🚀 Featured Projects
 
-| Project | Description | Tech |
-| --- | --- | --- |
-| [Portfolio Website](https://github.com/dsamithmendis/www.dsamithmendis.com) | Personal multi-section portfolio with backend email form integration | Flask, Tailwind, SMTP |
-| [TechnoHacks Internship](https://github.com/dsamithmendis?tab=repositories&q=TechnoHacks) | Internship tasks focusing on UI & form design | HTML, CSS |
-| [CodeAlpha Python Tools](https://github.com/dsamithmendis?tab=repositories&q=CodeAlpha) | Python CLI utilities including voice assistant and Fibonacci generator | Python |
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| [Portfolio Website](https://github.com/dsamithmendis/www.dsamithmendis.com) | Sleek, responsive personal portfolio with backend contact form | Flask, Tailwind CSS, SMTP |
+| [TechnoHacks Internship](https://github.com/dsamithmendis?tab=repositories&q=TechnoHacks) | Frontend internship work focusing on responsive UI and UX | HTML, CSS |
+| [CodeAlpha Python Tools](https://github.com/dsamithmendis?tab=repositories&q=CodeAlpha) | CLI utilities including a voice assistant and Fibonacci sequence generator | Python |
 
 ---
 
@@ -65,7 +65,7 @@
 
 ---
 
-## 🔥 GitHub Streak & Activity
+## 🔥 GitHub Activity & Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dsamithmendis&theme=dark&hide_border=true" width="45%" />
@@ -82,7 +82,7 @@
 
 ---
 
-## 🧠 Coding Activity (WakaTime)
+## 🧠 WakaTime Coding Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dsamithmendis&theme=dark&hide_border=true" />
@@ -90,16 +90,16 @@
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Goals & Aspirations
 
-- Master **React & Next.js** for frontend development  
-- Build robust and secure **REST APIs** with Node.js  
-- Learn containerization and deployment with **Docker** and **CI/CD pipelines**  
-- Contribute regularly to open-source projects  
+- 🚀 Master **React & Next.js** for high-performance web apps  
+- ⚙️ Build secure, scalable **RESTful APIs** with Node.js and Express  
+- ☁️ Gain expertise in **Docker**, **Kubernetes**, and **CI/CD pipelines**  
+- 🤝 Actively contribute to open-source and grow the dev community  
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/dsamithmendis" target="_blank">
