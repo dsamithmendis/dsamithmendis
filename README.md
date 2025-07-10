@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Hello wave" />
+  <img src="https://media.giphy.com/media/3o7aD7i8Bv9y5VURzK/giphy.gif" width="150" alt="Talking robot animation" />
 </p>
 
-<h1 align="center">Hey there, I'm <span style="color:#4CAF50;">Samith Mendis</span>! 👨‍💻</h1>
+<h1 align="center">Hey there, I'm <span style="color:#4CAF50;">Samith Mendis</span>! 🤖</h1>
 
 <p align="center">
   <i>Computer Engineering Student turned Software Developer</i><br/>
