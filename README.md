@@ -1,3 +1,8 @@
+## 📊 GitHub Stats & Activity Overview
+
+Here’s a snapshot of my GitHub contributions, language usage, and coding activity over time.  
+Stay consistent, keep learning, and build great things!
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=dsamithmendis&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&card_width=450&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=79c0ff&border_radius=20"
