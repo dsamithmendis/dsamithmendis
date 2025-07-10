@@ -55,8 +55,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dsamithmendis&show_icons=true&theme=dark&count_private=true&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsamithmendis&layout=compact&theme=dark&hide_border=true" width="45%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dsamithmendis&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&card_width=400&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=79c0ff&border_radius=20&hide_title=false" 
+    width="45%" 
+    alt="Samith's GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsamithmendis&layout=compact&theme=tokyonight&hide_border=true&card_width=400&bg_color=0d1117&text_color=c9d1d9&border_radius=20&hide_title=false" 
+    width="45%" 
+    alt="Samith's Top Languages" 
+  />
 </p>
 
 ---
@@ -64,8 +72,16 @@
 ## 🔥 GitHub Activity & Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dsamithmendis&theme=dark&hide_border=true" width="45%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dsamithmendis&theme=react-dark&hide_border=true" width="45%" />
+  <img 
+    src="https://streak-stats.demolab.com?user=dsamithmendis&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=ff7b72&currStreakNum=79c0ff&sideNums=c9d1d9&dates=8b949e&border_radius=20" 
+    width="45%" 
+    alt="GitHub Streak Stats" 
+  />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dsamithmendis&theme=react-dark&hide_border=true&area=true&radius=15&color=58a6ff" 
+    width="45%" 
+    alt="GitHub Activity Graph" 
+  />
 </p>
 
 ---
@@ -73,7 +89,12 @@
 ## 🌍 Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/31c48f/dsamithmendis" alt="GitHub Contribution Chart" width="80%" />
+  <img 
+    src="https://ghchart.rshah.org/31c48f/dsamithmendis" 
+    alt="GitHub Contribution Chart" 
+    width="80%" 
+    style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" 
+  />
 </p>
 
 ---
