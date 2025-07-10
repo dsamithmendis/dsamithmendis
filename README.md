@@ -72,10 +72,11 @@
 ## 🔥 GitHub Activity & Streak
 
 <p align="center">
+  <!-- Replaced streak stats with a stable badge -->
   <img 
-    src="https://streak-stats.demolab.com?user=dsamithmendis&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=ff7b72&currStreakNum=79c0ff&sideNums=c9d1d9&dates=8b949e&border_radius=20" 
+    src="https://img.shields.io/badge/GitHub%20Streak-🔥%20Active-green" 
+    alt="GitHub Streak Badge" 
     width="45%" 
-    alt="GitHub Streak Stats" 
   />
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=dsamithmendis&theme=react-dark&hide_border=true&area=true&radius=15&color=58a6ff" 
