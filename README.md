@@ -1,88 +1,104 @@
-<h1 align="center">👋 Hey there! I'm Samith Mendis</h1>
+<h1 align="center">🚀 Samith Mendis</h1>
+
 <p align="center">
-  💻 Computer Engineering Student | 🔧 Software Developer | 🌐 Tech Enthusiast  
+  <b>Computer Engineering Student | Software Developer | Tech Enthusiast</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/dsamithmendis"><img src="https://img.shields.io/github/followers/dsamithmendis?label=GitHub&style=social" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/dsamithmendis"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:samithmendis.01@gmail.com"><img src="https://img.shields.io/badge/Email-samithmendis.01@gmail.com-red?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/dsamithmendis" target="_blank">
+    <img src="https://img.shields.io/github/followers/dsamithmendis?label=Follow&style=social" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/dsamithmendis" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:samithmendis.01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-samithmendis.01@gmail.com-red?logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I'm a **Computer Engineering student** with a strong background in **hardware, firmware, and network systems**, now deeply focused on the **software engineering** side of tech. Passionate about building **end-to-end solutions**, I love turning ideas into real-world web apps!
+Hey there! I'm **Samith Mendis**, a curious and driven **Computer Engineering student** with a strong foundation in **hardware, networks, and firmware** — but now fully immersed in the **world of software**. I love solving real-world problems with code and designing responsive, scalable web applications.
 
-- 🌱 Currently diving deeper into **full-stack web development**
-- 🧠 Always exploring **Python**, **Flask**, **JavaScript**, and **Tailwind CSS**
-- 🎯 Goal: Become a **backend specialist** with solid DevOps skills
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-333?logo=python&logoColor=yellow)
-![HTML](https://img.shields.io/badge/-HTML5-333?logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333?logo=css3&logoColor=blue)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-333?logo=tailwindcss)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)
-![Flask](https://img.shields.io/badge/-Flask-333?logo=flask)
-![Git](https://img.shields.io/badge/-Git-333?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?logo=github)
+- 🔭 Currently focused on **Full Stack Development**
+- 🌐 Backend & REST API enthusiast
+- 🎨 Clean UI with **HTML/CSS/Tailwind**
+- ☁️ Learning cloud & deployment (Docker, Netlify)
 
 ---
 
-## 📌 Highlight Projects
+## 🛠️ Tech Toolbox
 
-### 🌐 [Personal Portfolio](https://github.com/dsamithmendis/www.dsamithmendis.com)
-> _Python · Flask · HTML · Tailwind CSS_  
-A responsive, multi-section portfolio site featuring:
-- `About Me`, `Skills`, `Projects`, `Certifications`, and a secure contact form
-- Backend & frontend completely separated for clean architecture
-- SMTP email integration with `.env` support
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,tailwind,js,github,git,figma" />
+</p>
 
 ---
 
-### 💼 [Internship Projects – TechnoHacks](https://github.com/dsamithmendis?tab=repositories&q=TechnoHacks)
-> _HTML · CSS · UI/UX Design_  
-Web-based tasks completed under a web dev internship, showcasing layout, form handling, and design practices.
+## 📌 Featured Projects
+
+### 🎯 [Personal Portfolio](https://github.com/dsamithmendis/www.dsamithmendis.com)
+> _Flask + Tailwind CSS + SMTP_
+- Fully responsive multi-section portfolio site
+- Backend & frontend architecture separation
+- `.env` config & email form integration using SMTP
+
+---
+
+### 💼 [Intern Projects – TechnoHacks](https://github.com/dsamithmendis?tab=repositories&q=TechnoHacks)
+> _HTML · CSS · Form Design_  
+Completed tasks during internship at TechnoHacks showcasing frontend layouting and form interactivity.
 
 ---
 
 ### 🤖 [CodeAlpha Python Projects](https://github.com/dsamithmendis?tab=repositories&q=CodeAlpha)
-> _Python · Automation · Voice Recognition_  
-- **Voice Assistant**: Basic speech-to-text interface with command responses  
-- **Fibonacci Generator**: CLI tool that displays the Fibonacci series dynamically
+> _Python · CLI Tools · Automation_
+- 🗣️ **Voice Assistant** with speech recognition
+- 🔁 **Fibonacci Generator** with user-friendly CLI
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dsamithmendis&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsamithmendis&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsamithmendis&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dsamithmendis&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsamithmendis&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## 🧭 Roadmap
 
-- 🌍 [LinkedIn](https://linkedin.com/in/dsamithmendis)
-- 💌 Email: samithmendis.01@gmail.com  
-- 🧑‍💻 [GitHub](https://github.com/dsamithmendis)
+- ✅ Build portfolio site with Flask
+- ✅ Contribute to open-source repositories
+- 🔜 Learn React & Next.js
+- 🔜 Develop REST APIs with auth
+- 🔜 Deploy Dockerized apps
 
 ---
 
-## 📅 Upcoming Goals
+## 🧩 Let's Connect!
 
-- 🔨 Learn **React.js** to build dynamic UIs  
-- 🔧 Create **REST APIs** with authentication  
-- ☁️ Explore **Docker**, **CI/CD**, and cloud deployment
+<p align="center">
+  <a href="https://linkedin.com/in/dsamithmendis">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/dsamithmendis">
+    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge" />
+  </a>
+  <a href="mailto:samithmendis.01@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  ⚡ "Code. Break. Build. Learn. Repeat." ⚡
+  🧠 <i>“The best way to predict the future is to invent it.”</i> – Alan Kay
 </p>
