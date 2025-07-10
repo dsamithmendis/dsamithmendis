@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/9hWQF7B.gif" width="150" alt="Pixel style talking robot animation" />
-</p>
-
-<h1 align="center">Hi, I'm <span style="color:#4CAF50;">Samith Mendis</span> 🤖</h1>
+<h1 align="center">Hi, I'm <span style="color:#4CAF50;">Samith Mendis</span> 👋</h1>
 
 <p align="center">
   <em>Computer Engineer turned passionate Software Developer</em><br/>
@@ -78,14 +74,6 @@
 
 <p align="center">
   <img src="https://ghchart.rshah.org/31c48f/dsamithmendis" alt="GitHub Contribution Chart" width="80%" />
-</p>
-
----
-
-## 🧠 WakaTime Coding Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dsamithmendis&theme=dark&hide_border=true" />
 </p>
 
 ---
