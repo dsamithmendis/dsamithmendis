@@ -32,17 +32,13 @@
 ## ⌨️ WakaTime Project Activity
 
 <p align="center">
-  <a href="https://wakatime.com/@dsamithmendis/projects/atdbbmktlx" target="_blank">
-    <img
-      src="https://wakatime.com/badge/user/dsamithmendis/project/atdbbmktlx.svg"
-      alt="Project atdbbmktlx WakaTime Stats"
-    />
-  </a>
+  <img
+    src="https://wakatime.com/badge/user/dsamithmendis/project/atdbbmktlx.svg"
+    alt="Project atdbbmktlx WakaTime Stats"
+  />
   &nbsp;
-  <a href="https://wakatime.com/@dsamithmendis/projects/aesqxkthmr" target="_blank">
-    <img
-      src="https://wakatime.com/badge/user/dsamithmendis/project/aesqxkthmr.svg"
-      alt="Project aesqxkthmr WakaTime Stats"
-    />
-  </a>
+  <img
+    src="https://wakatime.com/badge/user/dsamithmendis/project/aesqxkthmr.svg"
+    alt="Project aesqxkthmr WakaTime Stats"
+  />
 </p>
