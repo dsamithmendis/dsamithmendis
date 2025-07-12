@@ -33,12 +33,12 @@
 
 <p align="center">
   <img
-    src="https://wakatime.com/badge/user/dsamithmendis/project/atdbbmktlx.svg"
+    src="https://wakatime.com/badge/user/438c2ac5-4d16-471d-b7c0-dcc02483e907/project/atdbbmktlx.svg"
     alt="Project atdbbmktlx WakaTime Stats"
   />
   &nbsp;
   <img
-    src="https://wakatime.com/badge/user/dsamithmendis/project/aesqxkthmr.svg"
+    src="https://wakatime.com/badge/user/438c2ac5-4d16-471d-b7c0-dcc02483e907/project/aesqxkthmr.svg"
     alt="Project aesqxkthmr WakaTime Stats"
   />
 </p>
