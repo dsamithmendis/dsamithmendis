@@ -28,3 +28,21 @@
     alt="GitHub Activity Graph"
   />
 </p>
+
+## ⌨️ WakaTime Project Activity
+
+<p align="center">
+  <a href="https://wakatime.com/@dsamithmendis/projects/atdbbmktlx" target="_blank">
+    <img
+      src="https://wakatime.com/badge/user/dsamithmendis/project/atdbbmktlx.svg"
+      alt="Project atdbbmktlx WakaTime Stats"
+    />
+  </a>
+  &nbsp;
+  <a href="https://wakatime.com/@dsamithmendis/projects/aesqxkthmr" target="_blank">
+    <img
+      src="https://wakatime.com/badge/user/dsamithmendis/project/aesqxkthmr.svg"
+      alt="Project aesqxkthmr WakaTime Stats"
+    />
+  </a>
+</p>
