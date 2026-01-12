@@ -3,13 +3,13 @@
 <p align="center">
   <a href="https://juicee-v1-client.netlify.app/" target="_blank">
     <img
-      src="https://img.shields.io/badge/Juicee--Client-orange?style=for-the-badge&logo=javascript"
+      src="https://img.shields.io/badge/Juicee--Client-orange?style=for-the-badge&logo=netlify"
       alt="Juicee Client"
     />
   </a>
   <a href="https://juicee-v1-dashboard.netlify.app/" target="_blank">
     <img
-      src="https://img.shields.io/badge/Juicee--Dashboard-blue?style=for-the-badge&logo=react"
+      src="https://img.shields.io/badge/Juicee--Dashboard-blue?style=for-the-badge&logo=netlify"
       alt="Juicee Dashboard"
     />
   </a>
