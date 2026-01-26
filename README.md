@@ -21,7 +21,7 @@
   </a>
   <a href="https://vendor-management-system.unaux.com/frontend/html/sign-in/" target="_blank">
     <img
-      src="https://img.shields.io/badge/Vendor--Management--System-orange?style=for-the-badge&logo=php"
+      src="https://img.shields.io/badge/Vendor--Management--System-green?style=for-the-badge&logo=php"
       alt="Vendor Management System"
     />
   </a>
