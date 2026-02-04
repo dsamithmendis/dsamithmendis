@@ -21,7 +21,7 @@
   </a>
   <a href="https://damithmendis.netlify.app/" target="_blank">
     <img
-      src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&logo=netlify"
+      src="https://img.shields.io/badge/Damith--Portfolio-gray?style=for-the-badge&logo=netlify"
       alt="Personal Portfolio"
     />
   </a>
