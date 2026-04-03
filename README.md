@@ -31,6 +31,12 @@
       alt="Vendor Management System"
     />
   </a>
+   <a href="https://farmers-market-management-system.unaux.com/components/sign-in/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Farmer's--Market--Management--System-purple?style=for-the-badge&logo=php"
+      alt="Farmer's Market Management System"
+    />
+  </a>
 </p>
 
 ## 📊 GitHub Dashboard
