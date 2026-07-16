@@ -3,13 +3,13 @@
 <p align="center">
   <a href="https://hamuwa.lk" target="_blank">
     <img
-      src="https://img.shields.io/badge/Hamuwa-Green?style=for-the-badge&logo=reactnative"
+      src="https://img.shields.io/badge/Hamuwa-Yellow?style=for-the-badge&logo=reactnative"
       alt="Hamuwa"
     />
   </a>
   <a href="https://pdfforge.top" target="_blank">
     <img
-      src="https://img.shields.io/badge/PDF-Forge-Gray?style=for-the-badge&logo=react"
+      src="https://img.shields.io/badge/PDF--Forge-Gray?style=for-the-badge&logo=react"
       alt="PDF Forge"
     />
   </a>
