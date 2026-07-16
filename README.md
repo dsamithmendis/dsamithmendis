@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://hamuwa.lk" target="_blank">
     <img
-      src="https://img.shields.io/badge/Hamuwa-Yellow?style=for-the-badge&logo=reactnative"
+      src="https://img.shields.io/badge/Hamuwa--Yellow?style=for-the-badge&logo=native"
       alt="Hamuwa"
     />
   </a>
