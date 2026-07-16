@@ -2,11 +2,23 @@
 
 <p align="center">
   <a href="https://hamuwa.lk" target="_blank">
-    <img src="https://img.shields.io/badge/Hamuwa-FFC107?style=for-the-badge&logo=react&logoColor=white" alt="Hamuwa"/>
+    <img src="https://img.shields.io/badge/Hamuwa-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Hamuwa"/>
   </a>
 
   <a href="https://pdfforge.top" target="_blank">
-    <img src="https://img.shields.io/badge/PDF%20Forge-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF Forge"/>
+    <img src="https://img.shields.io/badge/PDF%20Forge-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF Forge"/>
+  </a>
+
+  <a href="https://chronicle-quest-by-dsamithmendis.base44.app" target="_blank">
+    <img src="https://img.shields.io/badge/Chronicle%20Quest-3B82F6?style=for-the-badge&logo=vite&logoColor=white" alt="Chronicle Quest"/>
+  </a>
+
+  <a href="https://rumaa.bolt.host" target="_blank">
+    <img src="https://img.shields.io/badge/Rumaa-F59E0B?style=for-the-badge&logo=vite&logoColor=white" alt="Rumaa"/>
+  </a>
+
+  <a href="https://pos-by-dsamithmendis.lovable.app" target="_blank">
+    <img src="https://img.shields.io/badge/POS-8B5CF6?style=for-the-badge&logo=vite&logoColor=white" alt="POS"/>
   </a>
 
   <a href="https://lazeez.lk" target="_blank">
