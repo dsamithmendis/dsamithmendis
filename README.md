@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=DSamith%20Mendis&fontSize=52&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20Sri%20Lanka&descAlignY=56&descSize=18&animation=twinkling&fontColor=ffffff" alt="Samith Mendis" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Samith%20Mendis&fontSize=52&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20Sri%20Lanka&descAlignY=56&descSize=18&animation=twinkling&fontColor=ffffff" alt="Samith Mendis" />
 
 <a href="https://dsamithmendis.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=680&height=60&lines=Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Vite;Design+it.+Build+it.+Ship+it.;AI-assisted+builder;Based+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
