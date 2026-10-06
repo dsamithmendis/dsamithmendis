@@ -29,10 +29,6 @@
 
 <table>
 <tr>
-<td colspan="2" valign="top"></td>
-<td colspan="2" valign="top" align="center"><h3>📈 Live Pulse</h3></td>
-</tr>
-<tr>
 <td width="36%" valign="top" rowspan="2">
 <img width="100%" src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,html,css,tailwind&theme=dark" alt="Frontend stack" />
 <br /><br />
@@ -88,31 +84,19 @@
   <img src="https://img.shields.io/badge/🤖%20AI%20BUILDS-4C1D95?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🧃%20PLATFORMS-064E3B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🐘%20PHP%20SYSTEMS-3730A3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📦%20OPEN%20SOURCE-CB3837?style=for-the-badge" />
 </p>
 
 <table align="center">
 <tr>
+
 <td align="center">
 
 🚀 **PRODUCTION**
 
 <br>
 
-<a href="https://hamuwa.lk">
-<img src="https://img.shields.io/badge/▶%20Hamuwa-22D3EE?style=for-the-badge&logoColor=white"/>
-</a>
-
-<a href="https://lazeez.lk">
-<img src="https://img.shields.io/badge/▶%20Lazeez-804097?style=for-the-badge&logoColor=white"/>
-</a>
-
-<a href="https://pdfforge.top">
-<img src="https://img.shields.io/badge/▶%20PDF%20Forge-E53935?style=for-the-badge&logoColor=white"/>
-</a>
-
-<a href="https://magiccube.lk">
-<img src="https://img.shields.io/badge/▶%20Magic%20Cube-0D1117?style=for-the-badge&logoColor=white"/>
-</a>
+<a href="https://hamuwa.lk"><img src="https://img.shields.io/badge/▶%20Hamuwa-22D3EE?style=for-the-badge&logoColor=white"/></a> <a href="https://lazeez.lk"><img src="https://img.shields.io/badge/▶%20Lazeez-804097?style=for-the-badge&logoColor=white"/></a> <a href="https://pdfforge.top"><img src="https://img.shields.io/badge/▶%20PDF%20Forge-E53935?style=for-the-badge&logoColor=white"/></a> <a href="https://imageforge.top"><img src="https://img.shields.io/badge/▶%20Image%20Forge-F97316?style=for-the-badge&logoColor=white"/></a> <a href="https://magiccube.lk"><img src="https://img.shields.io/badge/▶%20Magic%20Cube-0D1117?style=for-the-badge&logoColor=white"/></a>
 
 </td>
 
@@ -122,17 +106,7 @@
 
 <br>
 
-<a href="https://chronicle-quest-by-dsamithmendis.base44.app">
-<img src="https://img.shields.io/badge/▶%20Chronicle%20Quest-3B82F6?style=for-the-badge&logoColor=white"/>
-</a>
-
-<a href="https://rumaa.bolt.host">
-<img src="https://img.shields.io/badge/▶%20Rumaa-F59E0B?style=for-the-badge&logoColor=white"/>
-</a>
-
-<a href="https://pos-by-dsamithmendis.lovable.app">
-<img src="https://img.shields.io/badge/▶%20POS%20System-8B5CF6?style=for-the-badge&logoColor=white"/>
-</a>
+<a href="https://chronicle-quest-by-dsamithmendis.base44.app"><img src="https://img.shields.io/badge/▶%20Chronicle%20Quest-3B82F6?style=for-the-badge&logoColor=white"/></a> <a href="https://rumaa.bolt.host"><img src="https://img.shields.io/badge/▶%20Rumaa-F59E0B?style=for-the-badge&logoColor=white"/></a> <a href="https://pos-by-dsamithmendis.lovable.app"><img src="https://img.shields.io/badge/▶%20POS%20System-8B5CF6?style=for-the-badge&logoColor=white"/></a>
 
 </td>
 
@@ -142,13 +116,7 @@
 
 <br>
 
-<a href="https://juicee-v1-client.netlify.app">
-<img src="https://img.shields.io/badge/▶%20Client-00C7B7?style=for-the-badge&logoColor=white"/>
-</a>
-
-<a href="https://juicee-v1-dashboard.netlify.app">
-<img src="https://img.shields.io/badge/▶%20Dashboard-2563EB?style=for-the-badge&logoColor=white"/>
-</a>
+<a href="https://juicee-v1-client.netlify.app"><img src="https://img.shields.io/badge/▶%20Client-00C7B7?style=for-the-badge&logoColor=white"/></a> <a href="https://juicee-v1-dashboard.netlify.app"><img src="https://img.shields.io/badge/▶%20Dashboard-2563EB?style=for-the-badge&logoColor=white"/></a>
 
 </td>
 
@@ -158,17 +126,24 @@
 
 <br>
 
-<a href="https://vendor-management-system.unaux.com/frontend/html/sign-in">
-<img src="https://img.shields.io/badge/▶%20Vendor%20Management-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</a>
-
-<a href="https://farmers-market-management-system.unaux.com/components/sign-in">
-<img src="https://img.shields.io/badge/▶%20Farmers%20Market-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</a>
+<a href="https://vendor-management-system.unaux.com/frontend/html/sign-in"><img src="https://img.shields.io/badge/▶%20Vendor%20Management-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a> <a href="https://farmers-market-management-system.unaux.com/components/sign-in"><img src="https://img.shields.io/badge/▶%20Farmers%20Market-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
 
 </td>
+
 </tr>
 </table>
+
+<p align="center">
+
+<a href="https://www.npmjs.com/package/next-rsc-debug">
+<img src="https://img.shields.io/npm/v/next-rsc-debug?style=for-the-badge&logo=npm&logoColor=white&label=Next%20RSC%20Debug"/>
+</a>
+
+<a href="https://github.com/dsamithmendis/next-rsc-debug">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 <p align="center">
   <a href="https://dsamithmendis.vercel.app">
