@@ -35,9 +35,9 @@
 <tr>
 <td width="36%" valign="top" rowspan="2">
 <img width="100%" src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,html,css,tailwind&theme=dark" alt="Frontend stack" />
-<br /><br />
+
 <img width="100%" src="https://skillicons.dev/icons?i=php,mysql,vercel,netlify,git,github,gitlab,vscode,figma,postman&theme=dark" alt="Tooling and platforms" />
-<br /><br />
+
 <img src="https://img.shields.io/badge/Lovable-8B5CF6?style=for-the-badge&logo=lovable&logoColor=white" alt="Lovable" />
 <img src="https://img.shields.io/badge/Bolt.new-F59E0B?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Bolt" />
 <img src="https://img.shields.io/badge/Base44-3B82F6?style=for-the-badge&logo=probot&logoColor=white" alt="Base44" />
