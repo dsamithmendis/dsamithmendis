@@ -1,119 +1,202 @@
-<h1 align="center">🎮 PLAYER PROFILE</h1>
+<!-- ═══════════════════════════════════════════════════════════════════
+     ZONE 1 — HERO  (full-bleed)
+     ═══════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PLAYER-DSamith%20Mendis-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CLASS-Full%20Stack%20Dev-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LEVEL-25-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=for-the-badge" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=DSamith%20Mendis&fontSize=52&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20Sri%20Lanka&descAlignY=56&descSize=18&animation=twinkling&fontColor=ffffff" alt="DSamith Mendis" />
+
+<a href="https://dsamithmendis.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=680&height=60&lines=Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Vite;Design+it.+Build+it.+Ship+it.;AI-assisted+builder;Based+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://dsamithmendis.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-dsamithmendis.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://damithmendis.netlify.app"><img src="https://img.shields.io/badge/SECOND%20BASE-damithmendis.netlify.app-22D3EE?style=for-the-badge&logo=netlify&logoColor=white" alt="Second portfolio" /></a>
+  <a href="https://github.com/dsamithmendis"><img src="https://komarev.com/ghpvc/?username=dsamithmendis&label=PROFILE%20VIEWS&style=for-the-badge&color=6366F1" alt="Profile views" /></a>
 </p>
 
-```text
-╔══════════════════════════════════════════════════╗
-║  👤 PLAYER   : DSamith Mendis                    ║
-║  ⚔️  CLASS    : Full-Stack Developer              ║
-║  🌍 REGION   : Sri Lanka 🇱🇰                      ║
-║  🏆 RANK     : Gold II                           ║
-║                                                  ║
-║  ❤️  HP  [██████████████████░░] 90%              ║
-║  🔷 MP  [████████████████░░░░] 80%              ║
-║  ⭐ XP  [███████████████░░░░░] 75%  → LVL 26    ║
-╚══════════════════════════════════════════════════╝
-```
+</div>
 
----
+**Design it. Build it. Ship it. 🚀** I build web products end-to-end — pixel-level frontends in React / Next.js, PHP-backed systems, and multi-platform deploys. I lean on AI build tools to get from idea to production fast, without trading away craft.
 
-## 📈 ATTRIBUTES
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&section=header" alt="" /></div>
 
-```text
- FRONTEND     [████████████████████] 95
- BACKEND      [███████████████░░░░░] 75
- UI / UX      [████████████████░░░░] 80
- DATABASE     [██████████████░░░░░░] 70
- DEPLOYMENT   [█████████████████░░░] 85
- AI TOOLING   [██████████████████░░] 90
-```
+<!-- ═══════════════════════════════════════════════════════════════════
+     ZONE 2 — THE DASHBOARD  (split: identity left · live stats right)
+     ═══════════════════════════════════════════════════════════════════ -->
 
----
+## 📊 The Dashboard
 
-## 🧰 SKILL TREE
+<table>
+<tr>
+<td colspan="2" valign="top"><h3>👤 Identity &amp; Core Stack</h3></td>
+<td colspan="2" valign="top" align="center"><h3>📈 Live Pulse</h3></td>
+</tr>
+<tr>
+<td width="36%" valign="top" rowspan="2">
+<ul>
+  <li><b>Role</b> · Full-Stack Developer</li>
+  <li><b>Location</b> · Sri Lanka 🇱🇰</li>
+  <li><b>Frontend</b> · React · Next.js · Vite</li>
+  <li><b>Backend</b> · PHP · MySQL</li>
+  <li><b>Deploys</b> · Vercel · Netlify</li>
+  <li><b>AI stack</b> · Lovable · Bolt · Base44</li>
+</ul>
+<img width="100%" src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,html,css,tailwind&theme=dark" alt="Frontend stack" />
+<br /><br />
+<img width="100%" src="https://skillicons.dev/icons?i=php,mysql,vercel,netlify,git,github,gitlab,vscode,figma,postman&theme=dark" alt="Tooling and platforms" />
+<br /><br />
+<img src="https://img.shields.io/badge/Lovable-8B5CF6?style=for-the-badge&logo=lovable&logoColor=white" alt="Lovable" />
+<img src="https://img.shields.io/badge/Bolt.new-F59E0B?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Bolt" />
+<img src="https://img.shields.io/badge/Base44-3B82F6?style=for-the-badge&logo=probot&logoColor=white" alt="Base44" />
+</td>
+<td width="2%" valign="top"></td>
+<td width="31%" valign="top" align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=dsamithmendis&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=22D3EE&icon_color=6366F1&text_color=C9D1D9&rank_icon=github&include_all_commits=true&locale=en" alt="GitHub stats" />
+</td>
+<td width="31%" valign="top" align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsamithmendis&layout=compact&langs_count=6&hide_border=true&border_radius=12&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&locale=en" alt="Top languages" />
+</td>
+</tr>
+<tr>
+<td width="2%" valign="top"></td>
+<td width="31%" valign="top" align="center">
+<img width="100%" src="https://streak-stats.demolab.com?user=dsamithmendis&hide_border=true&border_radius=12&background=0D1117&ring=22D3EE&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=22D3EE&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="Streak stats" />
+</td>
+<td width="31%" valign="top" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dsamithmendis&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+</td>
+</tr>
+</table>
 
-| 🌳 Branch | 🛠️ Unlocked Skills |
-|:--|:--|
-| **⚛️ Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **🧪 Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **🚀 Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
-| **🤖 AI Builders** | ![Lovable](https://img.shields.io/badge/Lovable-8B5CF6?style=flat-square) ![Bolt](https://img.shields.io/badge/Bolt-F59E0B?style=flat-square) ![Base44](https://img.shields.io/badge/Base44-3B82F6?style=flat-square) |
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&section=header" alt="" /></div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════
+     ZONE 3 — CONTRIBUTIONS  (full-width band, auto-generated assets)
+     ═══════════════════════════════════════════════════════════════════ -->
 
-## 🗺️ QUEST LOG
-
-### 👑 MAIN QUESTS &nbsp;`LIVE • PRODUCTION`
-| 🎯 Quest | ⚙️ Stack | 📌 Status | 🔗 Link |
-|:--|:--|:--:|:--:|
-| **Hamuwa** | React | ✅ Complete | [![Play](https://img.shields.io/badge/▶%20PLAY-61DAFB?style=for-the-badge)](https://hamuwa.lk) |
-| **PDF Forge** | Web Tool | ✅ Complete | [![Play](https://img.shields.io/badge/▶%20PLAY-E53935?style=for-the-badge)](https://pdfforge.top) |
-| **Lazeez** | Next.js | ✅ Complete | [![Play](https://img.shields.io/badge/▶%20PLAY-000000?style=for-the-badge)](https://lazeez.lk) |
-| **Magic Cube** | Next.js | ✅ Complete | [![Play](https://img.shields.io/badge/▶%20PLAY-000000?style=for-the-badge)](https://magiccube.lk) |
-
-### ⚔️ SIDE QUESTS &nbsp;`AI-POWERED BUILDS`
-| 🎯 Quest | ⚙️ Stack | 📌 Status | 🔗 Link |
-|:--|:--|:--:|:--:|
-| **Chronicle Quest** | Base44 + Vite | ✅ Complete | [![Play](https://img.shields.io/badge/▶%20PLAY-3B82F6?style=for-the-badge)](https://chronicle-quest-by-dsamithmendis.base44.app) |
-| **Rumaa** | Bolt + Vite | ✅ Complete | [![Play](https://img.shields.io/badge/▶%20PLAY-F59E0B?style=for-the-badge)](https://rumaa.bolt.host) |
-| **POS System** | Lovable + Vite | ✅ Complete | [![Play](https://img.shields.io/badge/▶%20PLAY-8B5CF6?style=for-the-badge)](https://pos-by-dsamithmendis.lovable.app) |
-
-### 🧃 JUICEE SAGA &nbsp;`MULTI-PART CAMPAIGN`
-| 🎯 Quest | ⚙️ Stack | 📌 Status | 🔗 Link |
-|:--|:--|:--:|:--:|
-| **Juicee Client** | Netlify | ✅ Complete | [![Play](https://img.shields.io/badge/▶%20PLAY-00C7B7?style=for-the-badge)](https://juicee-v1-client.netlify.app) |
-| **Juicee Dashboard** | Netlify | ✅ Complete | [![Play](https://img.shields.io/badge/▶%20PLAY-2563EB?style=for-the-badge)](https://juicee-v1-dashboard.netlify.app) |
-
-### 🏰 DUNGEONS &nbsp;`BACKEND BOSS FIGHTS`
-| 🎯 Quest | ⚙️ Stack | 📌 Status | 🔗 Link |
-|:--|:--|:--:|:--:|
-| **Vendor Management System** | PHP | ✅ Cleared | [![Enter](https://img.shields.io/badge/🚪%20ENTER-777BB4?style=for-the-badge)](https://vendor-management-system.unaux.com/frontend/html/sign-in) |
-| **Farmers Market Management** | PHP | ✅ Cleared | [![Enter](https://img.shields.io/badge/🚪%20ENTER-777BB4?style=for-the-badge)](https://farmers-market-management-system.unaux.com/components/sign-in) |
-
-### 🏠 HOME BASES &nbsp;`PORTFOLIOS`
-| 🎯 Base | ⚙️ Host | 🔗 Link |
-|:--|:--|:--:|
-| **My Portfolio** | Vercel | [![Visit](https://img.shields.io/badge/🏠%20VISIT-000000?style=for-the-badge&logo=vercel)](https://dsamithmendis.vercel.app) |
-| **Damith Portfolio** | Netlify | [![Visit](https://img.shields.io/badge/🏠%20VISIT-4B5563?style=for-the-badge&logo=netlify)](https://damithmendis.netlify.app) |
-
----
-
-## 🏅 ACHIEVEMENTS
+## 🌐 Contributions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆-13%20Projects%20Shipped-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚡-Fast%20Deployer-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖-AI%20Whisperer-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🐘-PHP%20Dungeon%20Cleared-777BB4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌐-Multi--Platform%20Master-22C55E?style=for-the-badge" />
-</p>
-
----
-
-## 📊 PLAYER STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dsamithmendis&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsamithmendis&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
+  <img width="98%" src="https://raw.githubusercontent.com/dsamithmendis/dsamithmendis/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dsamithmendis&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img width="98%" src="https://raw.githubusercontent.com/dsamithmendis/dsamithmendis/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
-## 📜 ACTIVITY LOG
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&section=header" alt="" /></div>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dsamithmendis&theme=github-compact&area=true&hide_border=true&radius=12&cache=60"
-    width="94%"
-    alt="Samith's GitHub Contribution Graph"
-  />
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════
+     ZONE 4 — SELECTED WORK  (two-up card grid, grouped by track)
+     ═══════════════════════════════════════════════════════════════════ -->
 
-<p align="center"><b>🎮 GAME ON — NEW QUESTS LOADING...</b></p>
+## 🗂️ Selected Work
+
+<h3 align="center">🚀 Production · Live</h3>
+
+<table>
+<tr>
+<td width="50%" align="center">
+<b>Hamuwa</b><br /><sub>React</sub><br />
+<a href="https://hamuwa.lk"><img src="https://img.shields.io/badge/%E2%96%B6%20OPEN-22D3EE?style=for-the-badge&logoColor=white" alt="Open Hamuwa" /></a>
+</td>
+<td width="50%" align="center">
+<b>Lazeez</b><br /><sub>Next.js</sub><br />
+<a href="https://lazeez.lk"><img src="https://img.shields.io/badge/%E2%96%B6%20OPEN-0D1117?style=for-the-badge&logoColor=white" alt="Open Lazeez" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<b>PDF Forge</b><br /><sub>Web Tool</sub><br />
+<a href="https://pdfforge.top"><img src="https://img.shields.io/badge/%E2%96%B6%20OPEN-E53935?style=for-the-badge&logoColor=white" alt="Open PDF Forge" /></a>
+</td>
+<td width="50%" align="center">
+<b>Magic Cube</b><br /><sub>Next.js</sub><br />
+<a href="https://magiccube.lk"><img src="https://img.shields.io/badge/%E2%96%B6%20OPEN-0D1117?style=for-the-badge&logoColor=white" alt="Open Magic Cube" /></a>
+</td>
+</tr>
+</table>
+
+<h3 align="center">🤖 AI-Assisted Builds</h3>
+
+<table>
+<tr>
+<td width="50%" align="center">
+<b>Chronicle Quest</b><br /><sub>Base44 + Vite</sub><br />
+<a href="https://chronicle-quest-by-dsamithmendis.base44.app"><img src="https://img.shields.io/badge/%E2%96%B6%20OPEN-3B82F6?style=for-the-badge&logoColor=white" alt="Open Chronicle Quest" /></a>
+</td>
+<td width="50%" align="center">
+<b>Rumaa</b><br /><sub>Bolt + Vite</sub><br />
+<a href="https://rumaa.bolt.host"><img src="https://img.shields.io/badge/%E2%96%B6%20OPEN-F59E0B?style=for-the-badge&logoColor=white" alt="Open Rumaa" /></a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<b>POS System</b><br /><sub>Lovable + Vite</sub><br />
+<a href="https://pos-by-dsamithmendis.lovable.app"><img src="https://img.shields.io/badge/%E2%96%B6%20OPEN-8B5CF6?style=for-the-badge&logoColor=white" alt="Open POS System" /></a>
+</td>
+</tr>
+</table>
+
+<h3 align="center">🧃 Juicee Platform</h3>
+
+<table>
+<tr>
+<td width="50%" align="center">
+<b>Juicee · Client</b><br /><sub>Netlify</sub><br />
+<a href="https://juicee-v1-client.netlify.app"><img src="https://img.shields.io/badge/%E2%96%B6%20OPEN-00C7B7?style=for-the-badge&logoColor=white" alt="Open Juicee Client" /></a>
+</td>
+<td width="50%" align="center">
+<b>Juicee · Dashboard</b><br /><sub>Netlify</sub><br />
+<a href="https://juicee-v1-dashboard.netlify.app"><img src="https://img.shields.io/badge/%E2%96%B6%20OPEN-2563EB?style=for-the-badge&logoColor=white" alt="Open Juicee Dashboard" /></a>
+</td>
+</tr>
+</table>
+
+<h3 align="center">🐘 PHP Systems</h3>
+
+<table>
+<tr>
+<td width="50%" align="center">
+<b>Vendor Management System</b><br /><sub>PHP</sub><br />
+<a href="https://vendor-management-system.unaux.com/frontend/html/sign-in"><img src="https://img.shields.io/badge/%E2%96%B6%20OPEN-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Open Vendor Management" /></a>
+</td>
+<td width="50%" align="center">
+<b>Farmers Market Management</b><br /><sub>PHP</sub><br />
+<a href="https://farmers-market-management-system.unaux.com/components/sign-in"><img src="https://img.shields.io/badge/%E2%96%B6%20OPEN-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Open Farmers Market" /></a>
+</td>
+</tr>
+</table>
+
+<h3 align="center">🏠 Portfolios</h3>
+
+<table>
+<tr>
+<td width="50%" align="center">
+<b>My Portfolio</b><br /><sub>Vercel</sub><br />
+<a href="https://dsamithmendis.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%8F%A0%20VISIT-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" /></a>
+</td>
+<td width="50%" align="center">
+<b>Damith Portfolio</b><br /><sub>Netlify</sub><br />
+<a href="https://damithmendis.netlify.app"><img src="https://img.shields.io/badge/%F0%9F%8F%A0%20VISIT-4B5563?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit second portfolio" /></a>
+</td>
+</tr>
+</table>
+
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&section=header" alt="" /></div>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     ZONE 5 — FOOTER
+     ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer&animation=twinkling" alt="" />
+
+<b>Open to collaboration, freelance and full-time opportunities.</b>
+
+<a href="https://dsamithmendis.vercel.app"><img src="https://img.shields.io/badge/Let's%20build%20something-22D3EE?style=for-the-badge" alt="Let's build something" /></a>
+
+</div>
