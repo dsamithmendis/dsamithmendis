@@ -29,11 +29,8 @@
 
 <table>
 <tr>
-<td colspan="2" valign="top"></td>
-<td colspan="2" valign="top" align="center"><h3>📈 Live Pulse</h3></td>
-</tr>
-<tr>
 <td width="36%" valign="top" rowspan="2">
+<br /><br />
 <img width="100%" src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,html,css,tailwind&theme=dark" alt="Frontend stack" />
 <br /><br />
 <img width="100%" src="https://skillicons.dev/icons?i=php,mysql,vercel,netlify,git,github,gitlab,vscode,figma,postman&theme=dark" alt="Tooling and platforms" />
@@ -83,205 +80,82 @@
 
 ## 🗂️ Selected Work
 
-### 🚀 Production · Live
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### Hamuwa
-
-**React**
-
-<a href="https://hamuwa.lk">
-<img src="https://img.shields.io/badge/▶%20OPEN-22D3EE?style=for-the-badge&logoColor=white" alt="Open Hamuwa"/>
-</a>
-
-</td>
-<td width="50%" align="center">
-
-### Lazeez
-
-**Next.js**
-
-<a href="https://lazeez.lk">
-<img src="https://img.shields.io/badge/▶%20OPEN-0D1117?style=for-the-badge&logoColor=white" alt="Open Lazeez"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### PDF Forge
-
-**Web Tool**
-
-<a href="https://pdfforge.top">
-<img src="https://img.shields.io/badge/▶%20OPEN-E53935?style=for-the-badge&logoColor=white" alt="Open PDF Forge"/>
-</a>
-
-</td>
-<td width="50%" align="center">
-
-### Magic Cube
-
-**Next.js**
-
-<a href="https://magiccube.lk">
-<img src="https://img.shields.io/badge/▶%20OPEN-0D1117?style=for-the-badge&logoColor=white" alt="Open Magic Cube"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-### 🤖 AI-Assisted Builds
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### Chronicle Quest
-
-**Base44 · Vite**
-
-<a href="https://chronicle-quest-by-dsamithmendis.base44.app">
-<img src="https://img.shields.io/badge/▶%20OPEN-3B82F6?style=for-the-badge&logoColor=white" alt="Open Chronicle Quest"/>
-</a>
-
-</td>
-<td width="50%" align="center">
-
-### Rumaa
-
-**Bolt · Vite**
-
-<a href="https://rumaa.bolt.host">
-<img src="https://img.shields.io/badge/▶%20OPEN-F59E0B?style=for-the-badge&logoColor=white" alt="Open Rumaa"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-### POS System
-
-**Lovable · Vite**
-
-<a href="https://pos-by-dsamithmendis.lovable.app">
-<img src="https://img.shields.io/badge/▶%20OPEN-8B5CF6?style=for-the-badge&logoColor=white" alt="Open POS System"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-### 🧃 Juicee Platform
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### Juicee · Client
-
-**Netlify**
-
-<a href="https://juicee-v1-client.netlify.app">
-<img src="https://img.shields.io/badge/▶%20OPEN-00C7B7?style=for-the-badge&logoColor=white" alt="Open Juicee Client"/>
-</a>
-
-</td>
-<td width="50%" align="center">
-
-### Juicee · Dashboard
-
-**Netlify**
-
-<a href="https://juicee-v1-dashboard.netlify.app">
-<img src="https://img.shields.io/badge/▶%20OPEN-2563EB?style=for-the-badge&logoColor=white" alt="Open Juicee Dashboard"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-### 🐘 PHP Systems
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### Vendor Management System
-
-**PHP**
-
-<a href="https://vendor-management-system.unaux.com/frontend/html/sign-in">
-<img src="https://img.shields.io/badge/▶%20OPEN-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Open Vendor Management"/>
-</a>
-
-</td>
-<td width="50%" align="center">
-
-### Farmers Market Management
-
-**PHP**
-
-<a href="https://farmers-market-management-system.unaux.com/components/sign-in">
-<img src="https://img.shields.io/badge/▶%20OPEN-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Open Farmers Market"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-### 🏠 Portfolios
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### My Portfolio
-
-**Vercel**
-
-<a href="https://dsamithmendis.vercel.app">
-<img src="https://img.shields.io/badge/🏠%20VISIT-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio"/>
-</a>
-
-</td>
-<td width="50%" align="center">
-
-### Damith Portfolio
-
-**Netlify**
-
-<a href="https://damithmendis.netlify.app">
-<img src="https://img.shields.io/badge/🏠%20VISIT-4B5563?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit second portfolio"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
 <p align="center">
-  <sub>Built, deployed, and continuously improved across multiple stacks and platforms.</sub>
+  <img src="https://img.shields.io/badge/🚀%20PRODUCTION-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖%20AI%20BUILDS-4C1D95?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧃%20PLATFORMS-064E3B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐘%20PHP%20SYSTEMS-3730A3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📦%20OPEN%20SOURCE-CB3837?style=for-the-badge" />
 </p>
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&section=header" alt="" /></div>
+<table align="center">
+<tr>
+
+<td align="center">
+
+🚀 **PRODUCTION**
+
+<br>
+
+<a href="https://hamuwa.lk"><img src="https://img.shields.io/badge/▶%20Hamuwa-22D3EE?style=for-the-badge&logoColor=white"/></a> <a href="https://lazeez.lk"><img src="https://img.shields.io/badge/▶%20Lazeez-804097?style=for-the-badge&logoColor=white"/></a> <a href="https://pdfforge.top"><img src="https://img.shields.io/badge/▶%20PDF%20Forge-E53935?style=for-the-badge&logoColor=white"/></a> <a href="https://imageforge.top"><img src="https://img.shields.io/badge/▶%20Image%20Forge-F97316?style=for-the-badge&logoColor=white"/></a> <a href="https://magiccube.lk"><img src="https://img.shields.io/badge/▶%20Magic%20Cube-0D1117?style=for-the-badge&logoColor=white"/></a>
+
+</td>
+
+<td align="center">
+
+🤖 **AI BUILDS**
+
+<br>
+
+<a href="https://chronicle-quest-by-dsamithmendis.base44.app"><img src="https://img.shields.io/badge/▶%20Chronicle%20Quest-3B82F6?style=for-the-badge&logoColor=white"/></a> <a href="https://rumaa.bolt.host"><img src="https://img.shields.io/badge/▶%20Rumaa-F59E0B?style=for-the-badge&logoColor=white"/></a> <a href="https://pos-by-dsamithmendis.lovable.app"><img src="https://img.shields.io/badge/▶%20POS%20System-8B5CF6?style=for-the-badge&logoColor=white"/></a>
+
+</td>
+
+<td align="center">
+
+🧃 **JUICEE**
+
+<br>
+
+<a href="https://juicee-v1-client.netlify.app"><img src="https://img.shields.io/badge/▶%20Client-00C7B7?style=for-the-badge&logoColor=white"/></a> <a href="https://juicee-v1-dashboard.netlify.app"><img src="https://img.shields.io/badge/▶%20Dashboard-2563EB?style=for-the-badge&logoColor=white"/></a>
+
+</td>
+
+<td align="center">
+
+🐘 **PHP**
+
+<br>
+
+<a href="https://vendor-management-system.unaux.com/frontend/html/sign-in"><img src="https://img.shields.io/badge/▶%20Vendor%20Management-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a> <a href="https://farmers-market-management-system.unaux.com/components/sign-in"><img src="https://img.shields.io/badge/▶%20Farmers%20Market-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+
+<a href="https://www.npmjs.com/package/next-rsc-debug">
+<img src="https://img.shields.io/npm/v/next-rsc-debug?style=for-the-badge&logo=npm&logoColor=white&label=Next%20RSC%20Debug"/>
+</a>
+
+<a href="https://github.com/dsamithmendis/next-rsc-debug">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <a href="https://dsamithmendis.vercel.app">
+    <img src="https://img.shields.io/badge/🏠%20MY%20PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://damithmendis.netlify.app">
+    <img src="https://img.shields.io/badge/🏠%20DAMITH%20PORTFOLIO-374151?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+</p>
+
 
 <!-- ═══════════════════════════════════════════════════════════════════
      ZONE 5 — FOOTER
