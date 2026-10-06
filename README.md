@@ -30,6 +30,7 @@
 <table>
 <tr>
 <td width="36%" valign="top" rowspan="2">
+<br /><br />
 <img width="100%" src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,html,css,tailwind&theme=dark" alt="Frontend stack" />
 <br /><br />
 <img width="100%" src="https://skillicons.dev/icons?i=php,mysql,vercel,netlify,git,github,gitlab,vscode,figma,postman&theme=dark" alt="Tooling and platforms" />
