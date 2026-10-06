@@ -35,14 +35,13 @@
 <tr>
 <td width="36%" valign="top" rowspan="2">
 <img width="100%" src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,html,css,tailwind&theme=dark" alt="Frontend stack" />
-
+<br /><br />
 <img width="100%" src="https://skillicons.dev/icons?i=php,mysql,vercel,netlify,git,github,gitlab,vscode,figma,postman&theme=dark" alt="Tooling and platforms" />
-
+<br /><br />
 <img src="https://img.shields.io/badge/Lovable-8B5CF6?style=for-the-badge&logo=lovable&logoColor=white" alt="Lovable" />
 <img src="https://img.shields.io/badge/Bolt.new-F59E0B?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Bolt" />
 <img src="https://img.shields.io/badge/Base44-3B82F6?style=for-the-badge&logo=probot&logoColor=white" alt="Base44" />
 </td>
-<td width="2%" valign="top"></td>
 <td width="31%" valign="top" align="center">
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dsamithmendis&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=22D3EE&icon_color=6366F1&text_color=C9D1D9&rank_icon=github&include_all_commits=true&locale=en" alt="GitHub stats" />
 </td>
@@ -51,7 +50,6 @@
 </td>
 </tr>
 <tr>
-<td width="2%" valign="top"></td>
 <td width="31%" valign="top" align="center">
 <img width="100%" src="https://streak-stats.demolab.com?user=dsamithmendis&hide_border=true&border_radius=12&background=0D1117&ring=22D3EE&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=22D3EE&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="Streak stats" />
 </td>
