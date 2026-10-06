@@ -30,19 +30,11 @@
 
 <table>
 <tr>
-<td colspan="2" valign="top"><h3>👤 Identity &amp; Core Stack</h3></td>
+<td colspan="2" valign="top"></td>
 <td colspan="2" valign="top" align="center"><h3>📈 Live Pulse</h3></td>
 </tr>
 <tr>
 <td width="36%" valign="top" rowspan="2">
-<ul>
-  <li><b>Role</b> · Full-Stack Developer</li>
-  <li><b>Location</b> · Sri Lanka 🇱🇰</li>
-  <li><b>Frontend</b> · React · Next.js · Vite</li>
-  <li><b>Backend</b> · PHP · MySQL</li>
-  <li><b>Deploys</b> · Vercel · Netlify</li>
-  <li><b>AI stack</b> · Lovable · Bolt · Base44</li>
-</ul>
 <img width="100%" src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,html,css,tailwind&theme=dark" alt="Frontend stack" />
 <br /><br />
 <img width="100%" src="https://skillicons.dev/icons?i=php,mysql,vercel,netlify,git,github,gitlab,vscode,figma,postman&theme=dark" alt="Tooling and platforms" />
